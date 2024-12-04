@@ -24,14 +24,20 @@ function Home2() {
             that's why I decided to become a Software Engineer. 🤷‍♂️
               <br />
               <br />Experiencie in progamming languages like 
-              <i>
-                <b className="purple"> C++, Javascript, Java, Sodility, React  </b>
-              </i>
+                  <i>
+                      <b className="purple"> SQL, Rust, C#, Python, Cairo, PHP, C++, Javascript, Java, Sodility.</b>
+                  </i>
+              <br />
+              <br />Databases and Frameworks like
+                <i>
+                    <b className="purple"> React, .Net Core, Laravel, Laravel Livewire, NextJS, Postgresql, MySQL, SQLite, MongoDB, Hasura </b>
+                </i>
+               
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">Web3 Technologies and Projects </b> and
                 also in areas related to{" "}
                 <b className="purple">
                   Blockchain.
