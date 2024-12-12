@@ -37,8 +37,8 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="task_management"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              description="This is a Laravel-based Task Management application enhanced with Livewire for dynamic user interfaces. Follow the instructions below to set up the project locally."
+              ghLink="https://github.com/sotoJ24/task_management"
               demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
