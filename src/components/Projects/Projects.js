@@ -26,8 +26,8 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="SafeTrust"
-              description=" "
-              ghLink="https://github.com/soumyajit4419/Chatify"
+              description="SafeTrust is a decentralized platform designed to revolutionize P2P transactions, providing secure deposits and payments powered by blockchain and trustless technologies. 🌐✨ Experience transparency and reliability in every cryptocurrency transaction. 💸🔒"
+              ghLink="https://github.com/safetrustcr/Backend"
               demoLink="https://chatify-49.web.app/"
             />
           </Col>
