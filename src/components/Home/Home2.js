@@ -39,7 +39,7 @@ function Home2() {
                 <b className="purple">Web3 Technologies and Projects </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  Blockchain, web3, Backend.
                 </b>
               </i>
               <br />
