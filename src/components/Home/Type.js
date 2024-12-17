@@ -11,6 +11,7 @@ function Type() {
           "Dojo Coding Community",
           "Open Source Contributor / OnlyDust",
           "Backend / Frontend",
+          "Database Dev"
         ],
         autoStart: true,
         loop: true,
