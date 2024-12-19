@@ -20,8 +20,7 @@ function Home2() {
             </h1>
             <p className="home-about-body">
             I am a self-taught person, adaptive intelligence, 
-            I like to grow and improve myself, to build and for me knowledge is fun and very important to expand it, 
-            that's why I decided to become a Software Engineer. 🤷‍♂️
+            I like to grow and improve myself, to build and for me knowledge is fun and very important to expand it.
               <br />
               <br />Experiencie in progamming languages like 
                   <i>
@@ -40,7 +39,7 @@ function Home2() {
                 <b className="purple">Web3 Technologies and Projects </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  Blockchain, web3, Backend.
                 </b>
               </i>
               <br />
