@@ -25,7 +25,7 @@ function Home2() {
               <br />
               <br />Experiencie in progamming languages like 
                   <i>
-                      <b className="purple"> SQL, Rust, C#, Python, Cairo, PHP, C++, Javascript, Java, Sodility.</b>
+                      <b className="purple"> SQL, Rust, C#, Python, Cairo, PHP, C++, Javascript, Java</b>
                   </i>
               <br />
               <br />Databases and Frameworks like
