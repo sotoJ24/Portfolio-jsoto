@@ -20,7 +20,8 @@ function Home2() {
             </h1>
             <p className="home-about-body">
             I am a self-taught person, adaptive intelligence, 
-            I like to grow and improve myself, to build and for me knowledge is fun and very important to expand it.
+            I like to grow and improve myself, to build and for me knowledge is fun and very important to expand it, 
+            that's why I decided to become a Software Engineer. 🤷‍♂️
               <br />
               <br />Experiencie in progamming languages like 
                   <i>
@@ -39,7 +40,7 @@ function Home2() {
                 <b className="purple">Web3 Technologies and Projects </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain, web3, Backend.
+                  Blockchain.
                 </b>
               </i>
               <br />
@@ -73,7 +74,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/sotoJ24"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -83,7 +84,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://x.com/dev_jsoto"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -93,22 +94,12 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/josue-soto24/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <FaLinkedinIn />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
                 </a>
               </li>
             </ul>
