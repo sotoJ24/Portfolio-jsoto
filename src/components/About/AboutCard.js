@@ -13,11 +13,10 @@ function AboutCard() {
             <br />
             I am an open source software developer.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            I have completed Integrated Bachelor's Degree in Systems Engineering.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+           Love for coding and innovation!
           </p>
           <ul>
             <li className="about-activity">
