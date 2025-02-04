@@ -51,7 +51,3 @@ The project consists of the following main directories and files:
 - `.gitignore`: Specifies files and directories to be ignored by Git.
 - `README.md`: Provides information about the project.
 - `package-lock.json` and `package.json`: Manage project dependencies and scripts.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 
