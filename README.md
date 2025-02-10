@@ -8,7 +8,6 @@ This repository contains the personal portfolio of sotoJ24, showcasing projects 
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
