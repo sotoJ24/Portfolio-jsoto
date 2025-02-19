@@ -10,7 +10,7 @@ function Type() {
           "Web3 Developer",
           "Dojo Coding Community",
           "Open Source Contributor / OnlyDust",
-          "Dapps",
+          "DApps",
           "Backend / Frontend",
           "Database Dev"
         ],
