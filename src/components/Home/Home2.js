@@ -30,7 +30,7 @@ function Home2() {
               <br />
               <br />Databases and Frameworks like
                 <i>
-                    <b className="purple"> Postman, React, .Net Core, Laravel, Laravel Livewire, NextJS, Postgresql, MySQL, SQLite, MongoDB, Hasura </b>
+                    <b className="purple"> Postman, React, .Net Core, Laravel, ,Livewire, NextJS, Postgresql, GraphQL, MySQL, SQLite, MongoDB, Hasura </b>
                 </i>
                
               <br />
