@@ -1,6 +1,6 @@
 # Portfolio-jsoto
 
-This repository contains the personal portfolio of sotoJ24, showcasing projects and skills.
+This repository contains the personal portfolio of sotoJ24, showcasing projects and skills, experience.
 
 ## Table of Contents
 
