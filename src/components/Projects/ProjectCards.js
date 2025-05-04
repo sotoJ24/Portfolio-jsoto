@@ -41,7 +41,7 @@ function ProjectCards(props) {
             target="_blank"
             style={{ marginLeft: "10px" }}
           >
-            <BsGithub/> &nbsp;
+            <CgWebsite/> &nbsp;
             {"GitHub"}
           </Button>
         )}
