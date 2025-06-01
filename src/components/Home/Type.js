@@ -8,7 +8,7 @@ function Type() {
         strings: [
           "Software Engineer",
           "Web3 Developer",
-          "Dojo Coding Community",
+          "Dojo Coding, dev3pack club Community",
           "Open Source Contributor / OnlyDust",
           "DApps",
           "API Dev",
